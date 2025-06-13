@@ -1,4 +1,4 @@
-# Dev Portfoli
+# Dev Portfolio
 
 Marcus Eshleman's personal portfolio.
 
