@@ -9,7 +9,8 @@ const about = {
   name: 'Marcus Eshleman',
   role: 'Software Engineering Student',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    'I\'m a fourth-year Computer Engineering student at the University of Alberta, specializing in software. I like building things that work — and work well. Whether it\'s designing autonomous computer vision systems as the Software Lead of UAlberta Aero Design, developing personal projects, or applying machine learning and computer vision techniques, I’m always focused on creating elegant, impactful solutions. Currently looking for internships for summer 2026, particularly within machine learning and computer vision.',
+
   resume: 'https://example.com',
   social: {
     linkedin: 'https://www.linkedin.com/in/marcus-eshleman-22b21a296/',
