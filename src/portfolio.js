@@ -11,7 +11,7 @@ const about = {
   description:
     'I\'m a fourth-year Computer Engineering student at the University of Alberta, specializing in software. I like building things that work — and work well. Whether it\'s designing autonomous computer vision systems as the Software Lead of UAlberta Aero Design, developing personal projects, or applying machine learning and computer vision techniques, I’m always focused on creating elegant, impactful solutions. Currently looking for internships for summer 2026, particularly within machine learning and computer vision.',
 
-  resume: 'https://github.com/m-esh-66/portfolio/tree/main/src/Marcus_Eshleman_Resume',
+  resume: 'https://github.com/m-esh-66/portfolio/tree/main/src/Marcus_Eshleman_Resume.pdf',
   social: {
     linkedin: 'https://www.linkedin.com/in/marcus-eshleman-22b21a296/',
     github: 'https://github.com/m-esh-66',
