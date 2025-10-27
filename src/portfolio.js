@@ -26,7 +26,6 @@ const projects = [
     description: 'A convolutional neural network (CNN) built in  to classify handwritten digits from the MNIST dataset. The project implemented a simplified LeNet-style architecture and a 5-fold stratified cross-validation pipeline to tune hyperparameters (filter count and learning rate), achieving about 96.6% accuracy with the optimal configuration of 32 filters and 0.001 learning rate.',
     stack: ['Python', 'TensorFlow', 'Keras', 'NumPy', 'Scikit-Learn', 'Matplotlib' ],
     sourceCode: 'https://github.com/m-esh-66/MiscML',
-    //livePreview: 'https://github.com',
   },
       {
     name: 'LLM Maze Solver',
