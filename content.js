@@ -37,6 +37,19 @@ window.portfolio = {
   //   },
   projects: [
     {
+      name: 'Fuzzy Logic Asteroid Controller',
+      description: 'A fuzzy logic controller in Python that autonomously pilots a ship in the Kessler asteroid-shooter game, built as a group project for an intelligent systems course. The ship evades by steering toward the widest gap between nearby asteroids, with fuzzy rules setting turn rate and thrust from gap direction, asteroid distance, and threat count. Targeting predicts the nearest asteroid’s motion to lead each shot, firing more readily as aim error shrinks.',
+      stack: ['Python', 'Scikit-Fuzzy', 'NumPy'],
+      // The repo is private; uncomment this once it's public.
+      // sourceCode: 'https://github.com/Monothex/ECE_449_Group_Project',
+      media: {
+        src: 'media/kessler-fuzzy-controller.mp4',
+        alt: 'Gameplay: the fuzzy controller dodging and shooting asteroids',
+        poster: 'media/kessler-fuzzy-controller.jpg',
+        autoplay: true,
+      },
+    },
+    {
       name: 'Classifier using Convolution Neural Network',
       description: 'A convolutional neural network (CNN) built in  to classify handwritten digits from the MNIST dataset. The project implemented a simplified LeNet-style architecture and a 5-fold stratified cross-validation pipeline to tune hyperparameters (filter count and learning rate), achieving about 96.6% accuracy with the optimal configuration of 32 filters and 0.001 learning rate.',
       stack: ['Python', 'TensorFlow', 'Keras', 'NumPy', 'Scikit-Learn', 'Matplotlib'],
